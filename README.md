@@ -28,6 +28,7 @@ In the initial data preparation and processing phases, I performed the following
  - Which movies topped the box office revenue charts from 2012 to 2016?
  - Which movies had the highest production budgets during this period?
  - Which actors generated the highest box office revenue?
+ - Who is the top director by box office revenue from 2012 to 2016?
  - Which movie had the highest ROI from 2012 to 2016? Which movie had the lowest ROI?
  - Which genre led in box office revenue, indicating a strong audience preference?
  - What are the high-revenue generating genres?
