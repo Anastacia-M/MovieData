@@ -24,7 +24,7 @@ In the initial data preparation and processing phases, I performed the following
  - Data cleaning, formatting, and organizing
  - Transforming the data into the required format, ensuring it was ready for analysis while maintaining data integrity throughout the process
 
-The Excel file, after data cleaning and preparation, with all the Power Query steps, can be downloaded here: [Movies Data_ready for dashboard.xlsx](https://github.com/user-attachments/files/16448451/Movies.Data_ready.for.dashboard.xlsx)  
+The Excel file, after data cleaning and preparation, with all the Power Query steps, can be downloaded here: [Movies Data_ready for dashboard.xlsx](https://github.com/user-attachments/files/16448628/Movies.Data_ready.for.dashboard.xlsx)
 To go through the Power Query steps in this file, please use "Movies Data_source.xlsx" from the Data source section above as the source file.
 
 ### Exploratory Data Analysis 
