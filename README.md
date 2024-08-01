@@ -10,8 +10,7 @@ Table of Contents:
 This data analysis project aims to analyze movie performance and trends from 2012 to 2016, identifying patterns, making data-driven recommendations, and enhancing our understanding of the industry's dynamics.
 
 ### Data Sources
-The primary dataset for this analysis is the "Movies Data_source.xlsx" file, which includes comprehensive details on each movie's performance, director, actors, release date, and other relevant information.
-[Movies Data_source.xlsx](https://github.com/user-attachments/files/16448411/Movies.Data_source.xlsx)
+The primary dataset for this analysis is the [Movies Data_source.xlsx](https://github.com/user-attachments/files/16448411/Movies.Data_source.xlsx) file, which includes comprehensive details on each movie's performance, director, actors, release date, and other relevant information.
 
 ### Tools
 -	Power query: Used for Data cleaning and preparation
@@ -24,6 +23,7 @@ In the initial data preparation and processing phases, I performed the following
  - Handling errors and missing values
  - Data cleaning, formatting, and organizing
  - Transforming the data into the required format, ensuring it was ready for analysis while maintaining data integrity throughout the process
+The Excel file, after data cleaning and preparation, can be downloaded here: [Movies Data_ready for dashboards.xlsx](https://github.com/user-attachments/files/16448423/Movies.Data_ready.for.dashboards.xlsx)
 
 ### Initial Questions for Analysis
 For the purpose of gaining comprehensive insights from the movie industry data between 2012 and 2016, the following questions were asked:
