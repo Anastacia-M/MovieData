@@ -23,7 +23,7 @@ In the initial data preparation and processing phases, I performed the following
  - Handling errors and missing values
  - Data cleaning, formatting, and organizing
  - Transforming the data into the required format, ensuring it was ready for analysis while maintaining data integrity throughout the process
-The Excel file, after data cleaning and preparation, can be downloaded here: [Movies Data_ready for dashboard.xlsx](https://github.com/user-attachments/files/16448451/Movies.Data_ready.for.dashboard.xlsx)
+The Excel file, after data cleaning and preparation, with all the Power Query steps, can be downloaded here: [Movies Data_ready for dashboard.xlsx](https://github.com/user-attachments/files/16448451/Movies.Data_ready.for.dashboard.xlsx)
 
 ### Exploratory Data Analysis 
 For the purpose of gaining comprehensive insights from the movie industry data between 2012 and 2016, the following questions were asked:
