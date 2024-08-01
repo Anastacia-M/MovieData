@@ -44,6 +44,8 @@ The data from 2012-2016 highlights a clear preference for action-related genres,
 As an example, the movie with the highest box office revenue was "Despicable Me 2," which had a box office revenue of $970,800,000, a budget of $76,000,000, and an ROI of 1,177%. Jennifer Lawrence topped the box office revenue list with a total of $2,204,300,000. Chris Renaud leads the list of top directors with a box office revenue of $2,044,500,000.
 However, the most profitable movie was "The Devil Inside," which falls in Horror/Drama catogory, with a budget of $1,000,000, a box office revenue of $101,800,000, and an ROI of 10,080%.
 
+The Excel file with dashboard can be downloaded here: [Movies Data_dashboard.xlsx](https://github.com/user-attachments/files/16448502/Movies.Data_dashboard.xlsx)
+
 ![Movies Data Dashboard](https://github.com/user-attachments/assets/a28b1bc3-8899-48fe-8d87-1e5cc5d15db1)
 
 ### Challenges in Analysis
