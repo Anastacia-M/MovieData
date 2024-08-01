@@ -2,7 +2,7 @@
 Table of Contents:
  - [Project Overview](#project-overview)
  - [Data Sources](#data-sources)
- - [Questions for Analysis](#initial-questions-for-analysis)
+ - [Exploratory Data Analysis](#exploratory-data-analysis)
  - [Results](#results-and-findings)
  - [Challenges](#challenges-in-analysis)
 
@@ -25,7 +25,7 @@ In the initial data preparation and processing phases, I performed the following
  - Transforming the data into the required format, ensuring it was ready for analysis while maintaining data integrity throughout the process
 The Excel file, after data cleaning and preparation, can be downloaded here: [Movies Data_ready for dashboard.xlsx](https://github.com/user-attachments/files/16448451/Movies.Data_ready.for.dashboard.xlsx)
 
-### Initial Questions for Analysis
+### Exploratory Data Analysis 
 For the purpose of gaining comprehensive insights from the movie industry data between 2012 and 2016, the following questions were asked:
  - Which movies topped the box office revenue charts from 2012 to 2016?
  - Which movies had the highest production budgets during this period?
