@@ -1,4 +1,4 @@
-# Movie Data Analysis Project
+# Movies Data Analysis Project
 ## Table of Contents:
  - [Project Overview](#project-overview)
  - [Data Sources](#data-sources)
