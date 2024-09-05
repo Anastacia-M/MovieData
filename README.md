@@ -51,9 +51,9 @@ However, the most profitable movie was "The Devil Inside," which falls in Horror
 The Excel file with dashboard can be downloaded here: [Movies Data_dashboard.xlsx](https://github.com/user-attachments/files/16448600/Movies.Data_dashboard.xlsx)
 A screenshot of the dashboard is provided below for reference.
 
-I thought it would be insightful to recreate the same dashboard in Power BI for a direct comparison of the tools, focusing on their visualization capabilities and interactivity. Please find it here: https://github.com/Anastacia-M/Power-BI-Movies-Data
-
 ![Movies Data Dashboard](https://github.com/user-attachments/assets/0e55e5bc-cc35-4615-9365-70aba941b190)
+
+In addition, I thought it would be insightful to recreate the same dashboard in Power BI for a direct comparison of the tools, focusing on their visualization capabilities and interactivity. Please find it here: https://github.com/Anastacia-M/Power-BI-Movies-Data
 
 ### Challenges in Analysis
 
